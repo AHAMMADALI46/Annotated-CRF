@@ -35,3 +35,6 @@ set sdtm.dm;
 run;
 
 proc compara base=prod1
+
+Pinnacle 21:
+Export to excel sheet which has four tabs: Issues, rules, summary
